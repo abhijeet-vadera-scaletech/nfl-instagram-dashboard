@@ -52,8 +52,5 @@
   },
   "devDependencies": {
     "@types/react-lottie": "^1.2.10"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
