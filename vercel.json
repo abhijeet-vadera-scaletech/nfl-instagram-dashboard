@@ -1,7 +1,7 @@
 {
   "rewrites": [{ "source": "/(.*)", "destination": "/" }],
-  "buildCommand": "npm install",
-  "outputDirectory": ".",
+  "buildCommand": null,
+  "outputDirectory": null,
   "functions": {
     "api/**/*.js": {
       "runtime": "docker"
